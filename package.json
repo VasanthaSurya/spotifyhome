@@ -14,7 +14,7 @@
   },
   "publishConfig": {
     "@VasanthaSurya:registry": "https://npm.pkg.github.com"
-  }
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
