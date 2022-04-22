@@ -1,0 +1,154 @@
+.logo{
+    font-size: 2rem;
+    padding-top: 7%;
+    font-family: sans-serif , 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+}
+
+.su-cont{
+    width: 500px;
+    margin: auto auto 10% auto;
+    box-sizing: border-box;
+}
+
+.logo>img{
+    width: 35px;
+    height: 35px;
+}
+
+.ldt{
+    font-size: 1.7rem;
+    padding: 7% 2% 5% 2%; /* top right bottom left */
+    font-family: sans-serif , 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+    letter-spacing: normal;
+    font-weight: bold;
+}
+
+.fbk{
+    /* padding: 2% 20%; */
+    margin: 2% auto;
+    height: 45px;
+    width: 350px;
+    border-radius: 25px;
+    background-color: rgb(120, 120, 237);
+}
+
+.gle{
+    /* padding: 2% 20%; */
+    margin: 2% auto;
+    height: 45px;
+    width: 350px;
+    border-radius: 25px;
+    background-color: white;
+}
+
+button>div>img{
+    width: 25px;
+    height: 25px;
+}
+
+
+.via{
+    margin: auto;    
+    margin-left: 25%;
+}
+
+.hline{
+    height: 1%;
+}
+
+.lab{
+    color: black;
+    padding: 2% 0%;
+    margin: 2% 0%;
+}
+
+.frm{
+    margin: auto;
+}
+
+.inp{
+    width: 100%;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.cnt{
+    text-align: center;
+}
+
+.inst{
+    margin: 2% 0%;
+}
+
+.month{
+    margin: 2% 1% 2% 0%;
+    box-sizing: border-box;
+    width: 40%;
+}
+
+.year{
+    margin: 2% 1% 2% 0%;
+    box-sizing: border-box;
+    width: 30%;
+}
+
+.date{
+    margin: 2% 1% 2% 0%;
+    width: 20%;
+    box-sizing: border-box;
+}
+
+.idob{
+    padding: 2%;
+    width: 100%;
+    height: 40px;
+    box-sizing: border-box;
+}
+
+.dob{
+    justify-content: space-between;
+}
+
+.lp-2{
+    padding: 2% 2% 2% 0%;
+}
+
+.gt{
+    color: rgb(111, 235, 111);
+}
+
+.smtxt{
+    font-size: 13px;
+    font-family:  sans-serif ,'Segoe UI', Tahoma, Geneva, Verdana;
+}
+
+.supbtn{
+    width: 140px;
+    background-color: rgb(97, 244, 97);
+    height: 55px;
+    border-radius: 30px;
+    font-size: larger;
+}
+
+.recaptcha{
+    border: 2px solid black;
+    width: 65%;
+    height: 80px;
+    box-sizing: border-box;
+    justify-content: flex-start;
+    background-color: beige;
+    border-radius: 5px;
+}
+
+.chkcap{
+    margin: auto 3%;
+}
+
+.robotxt{
+    margin: auto;
+}
+
+#recaptcha{
+    width: 30px;
+    height: 30px;
+}
